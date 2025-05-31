@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+paho-mqtt
+motor
+numpy
+tensorflow
+keras
